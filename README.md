@@ -1,6 +1,6 @@
-# PRODIGY_ML_03
+# Image Classification of Cats and Dogs using CNN
 
-📌 Project Description: Dogs vs Cats Image Classification using CNN
+ Project Description: Dogs vs Cats Image Classification using CNN
 
 The goal of this project is to build a Convolutional Neural Network (CNN) model that can automatically classify images of dogs and cats. 
 
